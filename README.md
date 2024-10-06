@@ -1,4 +1,4 @@
-# JavaScript-For-Pentesters
+# JavaScript
 
 🔴🔵 Unleashing the Power of JavaScript in Red Teaming 🔴🔵
 
